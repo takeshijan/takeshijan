@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @takeshijan
+- 👋 Hi, I’m Nodirjon
 - 👀 I’m interested in Smart Devices
 - 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on Artificial intelligence in Uzbek language
